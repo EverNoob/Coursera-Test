@@ -66,16 +66,16 @@ body{
     .evenly {
     display:flex;
     justify-content:space-between;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding: 20px;
  }
 
     .large-device {
         width: 33%;
     }
 
-    .content{
-        margin: 15px;
+    #beefbox{
+        margin-left: 20px;
+        margin-right: 20px;
 
     }
 }
@@ -90,7 +90,7 @@ body{
 
   .evenly{
     overflow:hidden;
-    padding: 15px;
+    padding: 20px;
   }
 
   #chickenbox{
